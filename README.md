@@ -4,4 +4,16 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## `What is Terminology`
-A threat in terms of cybersecurity is something or someone that intends to cause harm toanother person or system. Furthermore, we can look at a threat as something that has the potential to cause malicious damage to a system, network, or person.
+Every field has certain terms that become a major part of the language of that field. Information security and cybersecurity are no different. The following are the most common terms, and we'll explore them in detail in this section:
+
+- Threat
+- Asset
+- Vulnerability
+- Exploit
+- Risk
+- Zero-day
+- Hack value
+
+
+
+Let's delve into these terms in more detail.
